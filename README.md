@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jmlgh
-- 👀 I’m interested in Angular, Typescript, Go, Python, C#, C++, C, low-level stuff and learning new interesting things
-- 🌱 I’m currently learning ASP.NET Core
+- 👀 I’m interested in React, Angular, Typescript, Go, Python, C++, C, low-level stuff and learning new interesting things
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on any project that uses any language listed above
 - 📫 How to reach me: jfmarli@gmail.com
 
