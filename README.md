@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jmlgh
-- 👀 I’m interested in React, Angular, Typescript, Go, Python, C++, C, low-level stuff and learning new interesting things
-- 🌱 I’m currently learning React
+- 👀 I’m interested in Go, Python, Typescript, C++, C, data structures, algorithms and low-level topics
+- 🌱 I’m currently learning Concurrency in Go
 - 💞️ I’m looking to collaborate on any project that uses any language listed above
 - 📫 How to reach me: jfmarli@gmail.com
 
